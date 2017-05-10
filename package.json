@@ -1,0 +1,37 @@
+{
+  "name": "typescript-boilerplate",
+  "version": "1.0.1",
+  "description": "\"Typescript boilerplate with webpack, ts-loader and sourceMap. Bootstrap 3 included.\"",
+  "main": "app.js",
+  "dependencies": {
+    "typescript": "^2.3.2"
+  },
+  "devDependencies": {
+    "rimraf": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenizRovcanin/typescript-boilerplate-webpack.git"
+  },
+  "keywords": [
+    "typescript",
+    "boilerplate",
+    "typescript",
+    "typescript",
+    "webpack",
+    "boilerplate",
+    "typescript",
+    "ts-loader",
+    "bootstrap3",
+    "typescript"
+  ],
+  "author": "Deniz Rovcanin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DenizRovcanin/typescript-boilerplate-webpack/issues"
+  },
+  "homepage": "https://github.com/DenizRovcanin/typescript-boilerplate-webpack#readme"
+}
