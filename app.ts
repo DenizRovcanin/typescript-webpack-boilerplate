@@ -1,4 +1,4 @@
-class MyClass {
+class MyClass  {
     public render (docEl: string, text: string) {
         let el: HTMLElement = document.querySelector(docEl);
         el.textContent = text;

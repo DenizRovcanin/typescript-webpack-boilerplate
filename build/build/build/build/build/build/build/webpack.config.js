@@ -8,10 +8,6 @@ module.exports = {
     module: {
         rules: [
             {
-                test: /\.tsx?$/ ,
-                loader: "ts-loader"
-            },
-            {
                 enforce: 'pre',
                 test: /\.js$/,
                 loader: "source-map-loader"
@@ -28,3 +24,4 @@ module.exports = {
     },
     devtool: 'inline-source-map'
 };
+//# sourceMappingURL=webpack.config.js.map
